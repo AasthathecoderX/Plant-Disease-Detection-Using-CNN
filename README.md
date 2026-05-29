@@ -81,6 +81,8 @@ http://127.0.0.1:5000
 Sample images are available in `test_images/`. Use them to validate that the prediction flow, result page, and dashboard history are working after setup.
 
 ---
+- [Aastha](https://github.com/AasthathecoderX)
+- [Niveditha](https://github.com/marvelcodeX)
 
 ## Demo Images
 
